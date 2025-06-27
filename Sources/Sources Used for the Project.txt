@@ -1,0 +1,5 @@
+1. https://www.geeksforgeeks.org/text-preprocessing-in-python-set-1/
+2. https://github.com/berknology/text-preprocessing
+3. https://en.wikipedia.org/wiki/Help:IPA/Amharic
+4. https://en.wikipedia.org/wiki/Help:IPA/Tigriyna
+5. https://bible.geezexperience.com
